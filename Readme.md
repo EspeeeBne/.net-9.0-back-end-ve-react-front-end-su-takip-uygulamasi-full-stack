@@ -1,4 +1,4 @@
-#Suyu Çok Severim
+# Suyu Çok Severim
 
 Suyu Çok Severim, su tüketiminizi takip etmenizi ve analiz etmenizi sağlayan, React ve .NET Core kullanılarak geliştirilmiş bir uygulamadır. Bu proje sayesinde günlük, haftalık, aylık ve yıllık su içme istatistiklerinizi takip edebilir ve kendinize hedefler koyabilirsiniz.
 
