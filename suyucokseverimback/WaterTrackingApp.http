@@ -1,0 +1,6 @@
+@WaterTrackingApp_HostAddress = http://localhost:5252
+
+GET {{WaterTrackingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
