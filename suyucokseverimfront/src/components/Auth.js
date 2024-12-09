@@ -63,7 +63,7 @@ const Auth = ({ onLogin }) => {
       const response = await axios.post(`${process.env.REACT_APP_API_BASE_URL}/api/auth/register`, {
         username,
         password,
-        userId: username, // Kullanıcı ID'si kullanıcı adı ile aynı olacak şekilde ayarlandı
+        userId: username,
       });
       if (response.status === 200) {
         setSuccess('Kullanıcı başarıyla kaydedildi');
